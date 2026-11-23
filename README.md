@@ -1,8 +1,8 @@
 # Monday 23 November 2026: 10 stories on the world departures board
 
-![bounty](https://img.shields.io/badge/make.fun-news--image--20261123-amber)
-![entry fee](https://img.shields.io/badge/entry%20fee-%240.00-green)
-![stories](https://img.shields.io/badge/stories-10-blue)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/zhazha473/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/zhazha473/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 **Title:** Monday 23 November 2026: 10 stories on the world departures board — New Zealand bat to save the Test, Albanese trails Taylor, NATO meets on Poland
 
